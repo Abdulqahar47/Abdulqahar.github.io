@@ -28,7 +28,7 @@ main:
     
   - title: "CV"
     #url: /files/Abdulqahar_D_Resume.pdf
-    url: /https://drive.google.com/file/d/1ePf_qxlid1YHDSVxH_4DtU6Cnkyw198B/view?usp=sharing
+    url: https://drive.google.com/file/d/1ePf_qxlid1YHDSVxH_4DtU6Cnkyw198B/view?usp=sharing
     
   # - title: "CV"
   #   url: /cv-json/
